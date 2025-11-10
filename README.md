@@ -1,4 +1,4 @@
-## Hi there 👋
+Frontend developer interested in frameworks
 
 [![Top Langs](https://readme-status-phi.vercel.app/api/top-langs/?username=tetsu-wang&layout=compact&hide=javascript,html,css&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
